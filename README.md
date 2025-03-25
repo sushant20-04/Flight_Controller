@@ -31,7 +31,7 @@ This project implements a **PID-based flight controller** on the **Aries V3 deve
 - Optimize **PWM control for smoother flight dynamics**  
 
 ## **Contributors**  
-👤 **Sushant Gudmewar** | Electrical Engineering | IIT Gandhinagar
+👤 **Sushant Gudmewar** | Electrical Engineering | IIT Gandhinagar   
 👤 **Raghavpravin K S** | Electrical Engineering | IIT Gandhinagar
 
 ---
